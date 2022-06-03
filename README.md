@@ -1,3 +1,3 @@
 # SiteMaquillageResponsive
 
-Exercice personnel, pour m'entrainer reproduire un site existant, entrainement CSS utilisation de Flex 
+Version 2 du site maquillage, changement pour adaptation en responsive
